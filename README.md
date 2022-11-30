@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MSSRPRAD
 - 👀 I’m interested in ... web dev, video game design
-- 🌱 I’m currently learning ... java, spring boot, html, linux, git
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... java, spring boot, html, linux, git, awk
+- 💞️ I’m looking to collaborate on ... nothing at the moment but you can contact me!
 - 📫 How to reach me ... you can contact me at pradyumnamalladi03@gmail.com
 
 <!---
