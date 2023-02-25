@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSSRPRAD
+- 👋 Hi, I’m Pradyumna!
 - 👀 I’m interested in ... web dev, machine learning, linux
 - 🌱 I’m currently learning ... DSA, css, linux, python, machine learning
 - 💞️ I’m looking to collaborate on ... have nothing at the moment but you can contact me!
