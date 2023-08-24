@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Pradyumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssrprad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pradyumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssrprad&theme=svelte)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
