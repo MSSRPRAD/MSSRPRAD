@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradyumna!
-- 👀 I’m interested in ... web dev, machine learning, linux
+- 👀 I’m interested in ... web dev, machine learning, linux (But currently a Summer Internship :") )
 - 🌱 I’m currently learning ... DSA, Web Development, linux, python, machine learning
 - 💞️ I’m looking to collaborate on ... have nothing at the moment but you can contact me!
 - 📫 How to reach me ... you can contact me at pradyumna.malladi2003@gmail.com
